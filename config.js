@@ -10,10 +10,10 @@ import { fileURLToPath } from 'url'
 global.pairingNumber = '6287893705212' //ganti dengan nomer bot mu
 // Owner
 global.owner = [
-['6285954540177', 'Varo', true]
+['2347049602299', '𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒', true]
 ]
-global.mods = []
-global.prems = []
+global.mods = [2349042566473,2347049602299]
+global.prems = [2349042566473,2347049602299]
 global.multiplier = 69
 global.rpg = {
   emoticon(string) {
@@ -87,8 +87,8 @@ global.rpg = {
 }
 
 // Info
-global.nomerbot = info.nomerbot
-global.pairingNumber = info.pairingNumber
+global.nomerbot = '𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒'
+global.pairingNumber = '2347049602299'
 global.nomorwa = info.nomorwa
 global.nameown = info.nameown
 global.nomerown = info.nomerown
